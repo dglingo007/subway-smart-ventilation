@@ -41,8 +41,7 @@ Passenger flow analysis identified clear peak patterns during commuting hours.
 - Peak and off-peak periods have statistically significant differences (Welch's t-test)
 
 
-![Hourly Passenger Flow](hourly_passenger_dustribution.png)
-
+![Hourly Passenger Distribution](hourly_passenger_dustribution.png)
 
 Based on these patterns:
 
