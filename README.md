@@ -41,7 +41,7 @@ Passenger flow analysis identified clear peak patterns during commuting hours.
 - Peak and off-peak periods have statistically significant differences (Welch's t-test)
 
 
-![Hourly Passenger Flow](images/hourly_flow.png)
+![Hourly Passenger Flow](hourly_passenger_dustribution.png)
 
 
 Based on these patterns:
@@ -64,7 +64,7 @@ Station-level passenger volume analysis identified high-congestion hubs.
 - Ventilation resources should be prioritized for high-density stations
 - High-demand stations require differentiated ventilation strategies
 
-![Station Congestion Analysis](images/station_congestion.png)
+![Station Congestion Analysis](images/top10_priority_stations.png)
 
 
 ---
